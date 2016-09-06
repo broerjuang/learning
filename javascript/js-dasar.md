@@ -23,3 +23,9 @@
 ### Apa yang harus ditulis ketika menuliskan *comment* atau komentar?
 
  Komentar sebaiknya bersifat deskriptif tapi singkat. Tujuannya adalah mengklarifikasi fungsi atau tujuan dari kode kamu. Komentar yang baik akan menolong kamu untuk mengkomunikasikan apa yang kamu lakukan. Lagi-lagi bukan hanya untuk orang lain, tapi juga untuk diri kamu dimasa mendatang ketika membaca ulang kode yang kamu buat.
+
+#### Index
+[Halaman Utama](../index.md) [Halaman Sebelumnya](IntroJs.md) [Halaman Selanjutnya](varibleJs.md)
+
+## Referensi
+[Free Code Camp](https://www.freecodecamp.com)
