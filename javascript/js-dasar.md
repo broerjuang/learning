@@ -30,5 +30,5 @@
 
 ## Index
 * [Halaman Utama](../index.md) 
-* [Pengenalan Javascript](IntroJs.md) 
-* [Variable Javascript](varibleJs.md)
+* [Pengenalan Javascript](./IntroJs.md) 
+* [Variable Javascript](./varibleJs.md)
