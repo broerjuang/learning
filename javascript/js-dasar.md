@@ -29,6 +29,6 @@
 [Free Code Camp](https://www.freecodecamp.com)
 
 ## Index
-[Halaman Utama](../index.md) 
-[Pengenalan Javascript](IntroJs.md) 
-[Variable Javascript](varibleJs.md)
+* [Halaman Utama](../index.md) 
+* [Pengenalan Javascript](IntroJs.md) 
+* [Variable Javascript](varibleJs.md)
