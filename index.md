@@ -6,3 +6,4 @@
   1. [Pendahuluan tentang CSS](css/introCss.md)
 3. [Javascript](javascript/indexJs.md)
   1. [Pendahuluan tentang Javascript](javascript/introJs.md)
+  2. [Javascript Dasar](javascript/dasarJs.md)
